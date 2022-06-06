@@ -13,7 +13,7 @@
 if ( ! function_exists( 'add_action' ) ) exit;
 
 define( 'PTS_PLUGIN_NAME',      'Post Type Shortcodes'      );
-define( 'PTS_POST_TYPE_SLUG',   'guest'                     );
+define( 'PTS_POST_TYPE_SLUG',   'tamu'                      );
 
 /**
  * The Shortcode :)
